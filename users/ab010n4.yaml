@@ -7,4 +7,5 @@ spec:
   profile:
     displayName: Thoka Mamabolo
     email: thoka.mamabolo@absa.africa
-  memberOf: []
+  memberOf:
+    - MANABU-PROD-ZA-USER
